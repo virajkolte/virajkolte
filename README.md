@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AzureDevOps
 - 💞️ I’m looking to collaborate on Git, AzureDevOps and coding.
 - 📫 How to reach me ...
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 - Added on 10NOV2024
 
